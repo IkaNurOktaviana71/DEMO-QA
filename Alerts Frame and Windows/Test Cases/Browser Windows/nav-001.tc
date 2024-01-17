@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user can access the Browser Windows</description>
+   <name>nav-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b20084dc-6372-4ac5-94ca-4fbb3679d5e3</testCaseGuid>
+</TestCaseEntity>

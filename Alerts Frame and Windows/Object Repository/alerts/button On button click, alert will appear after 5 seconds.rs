@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button On button click, alert will appear after 5 seconds</name>
+   <tag></tag>
+   <elementGuidId>34c307c3-3549-4586-9d48-9b4d7ab3e6c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='timerAlertButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>385cd689-625a-4553-b04c-6eef7d4460f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1705465832751</value>
+      <webElementGuid>0327c0cb-251c-40d1-9f9b-298f14f8ad20</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

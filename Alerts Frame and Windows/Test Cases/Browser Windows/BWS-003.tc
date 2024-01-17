@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user success open new window message</description>
+   <name>BWS-003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ddae9e50-7a82-4e3f-9b54-d17e124862ec</testCaseGuid>
+</TestCaseEntity>
