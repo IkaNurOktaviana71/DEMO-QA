@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>search nama depan</name>
+   <tag></tag>
+   <elementGuidId>004abfa1-ae51-4a69-9da3-c92454051abd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[3]/div/div[2]/div[1]/div[1]/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.rt-td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7afd04e7-3ab6-42c7-9202-9cfec07f279d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rt-td</value>
+      <webElementGuid>8f71082b-4fbd-4d12-a111-5d39ff9af4c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>38bb8934-c311-4853-a53b-cd8c13aa04d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>john</value>
+      <webElementGuid>9176ba2b-fd7b-4665-80a4-523707fe0f10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4 col-md-6&quot;]/div[@class=&quot;web-tables-wrapper&quot;]/div[@class=&quot;ReactTable -striped -highlight&quot;]/div[@class=&quot;rt-table&quot;]/div[@class=&quot;rt-tbody&quot;]/div[@class=&quot;rt-tr-group&quot;]/div[@class=&quot;rt-tr -odd&quot;]/div[@class=&quot;rt-td&quot;]</value>
+      <webElementGuid>7830c2b3-7b99-49a1-a4f5-e0d159722e72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[3]/div/div[2]/div/div/div</value>
+      <webElementGuid>3383c4d3-5a49-473e-923b-15fd07c85494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::div[5]</value>
+      <webElementGuid>0b446ab0-b950-4af8-802d-aa37610da863</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[1]/following::div[8]</value>
+      <webElementGuid>ff5c6d09-8ec7-4acb-a196-d56a7575b09c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='du'])[1]/preceding::div[1]</value>
+      <webElementGuid>05b308cb-3e77-4d2c-89e7-aa0399d33565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='johandu@gmail.com'])[1]/preceding::div[3]</value>
+      <webElementGuid>ff90f294-f31d-4441-bc2b-7f5aaa292b88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div</value>
+      <webElementGuid>0a7eba45-8e08-46c8-bb67-351c297c5526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'john' or . = 'john')]</value>
+      <webElementGuid>7f5d3155-cce9-4985-8530-ecfd183507aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

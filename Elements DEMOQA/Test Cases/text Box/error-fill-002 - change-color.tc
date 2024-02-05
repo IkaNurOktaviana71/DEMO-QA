@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user fills in all fields by entering different current addres with permanent adress</description>
+   <name>error-fill-002 - change-color</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42a76105-5792-4cac-a48c-0d1b74848841</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d4d713a-4f69-4f9f-abf6-bc697721ba3c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f1156925-6055-41a1-913c-1f0879f9772f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d0ef61f4-84df-451e-925b-a2954bf75f45</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>447b8293-d69b-4476-bf9b-46636c76c388</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Johan Du'</defaultValue>
+      <description></description>
+      <id>8d4d713a-4f69-4f9f-abf6-bc697721ba3c</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'johandu'</defaultValue>
+      <description></description>
+      <id>f1156925-6055-41a1-913c-1f0879f9772f</id>
+      <masked>false</masked>
+      <name>mail</name>
+   </variable>
+   <variable>
+      <defaultValue>'street kaliurang km 17, Sleman, Yogyakarta'</defaultValue>
+      <description></description>
+      <id>d0ef61f4-84df-451e-925b-a2954bf75f45</id>
+      <masked>false</masked>
+      <name>cur</name>
+   </variable>
+   <variable>
+      <defaultValue>'street kaliurang km 17, Sleman, Yogyakarta'</defaultValue>
+      <description></description>
+      <id>447b8293-d69b-4476-bf9b-46636c76c388</id>
+      <masked>false</masked>
+      <name>permanen</name>
+   </variable>
+</TestCaseEntity>

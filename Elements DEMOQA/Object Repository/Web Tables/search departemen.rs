@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>search departemen</name>
+   <tag></tag>
+   <elementGuidId>dc45cb76-2d88-45ce-8ea2-8da11874d06b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[3]/div/div[2]/div[1]/div[1]/div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>87d7e611-f1c3-48cf-862d-d0f06e8ce32a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rt-td</value>
+      <webElementGuid>0312bc90-155a-4443-a21a-fd47175ecdf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>0c8f197f-a778-4fb7-9d24-339cb767725f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>law</value>
+      <webElementGuid>4f5e142c-c18c-4fb7-90a9-c6f4ca9dae10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4 col-md-6&quot;]/div[@class=&quot;web-tables-wrapper&quot;]/div[@class=&quot;ReactTable -striped -highlight&quot;]/div[@class=&quot;rt-table&quot;]/div[@class=&quot;rt-tbody&quot;]/div[@class=&quot;rt-tr-group&quot;]/div[@class=&quot;rt-tr -odd&quot;]/div[@class=&quot;rt-td&quot;]</value>
+      <webElementGuid>512e5f3a-dacd-42e8-bb79-c51713fe751d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[3]/div/div[2]/div/div/div[6]</value>
+      <webElementGuid>81149460-39ef-4d12-868a-287210c101d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='johandu@gmail.com'])[1]/following::div[2]</value>
+      <webElementGuid>0185e443-81a1-4d13-b416-ad0bf66c46d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='du'])[1]/following::div[4]</value>
+      <webElementGuid>52b70adb-ea2e-407d-834c-3e41a2977739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::div[84]</value>
+      <webElementGuid>fd0696aa-d6cd-4576-aac4-56266719e383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[6]</value>
+      <webElementGuid>b85126dc-e760-4292-9185-d1149d87ec81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'law' or . = 'law')]</value>
+      <webElementGuid>39030f7b-f6c1-49ef-a964-f5bf55424e53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

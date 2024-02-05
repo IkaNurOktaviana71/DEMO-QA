@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user fill the field with full name only input with spesial character and number</description>
+   <name>error-fill-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1258c828-9a1b-459f-848c-4997ba7c2ef5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4bc39494-2e2a-44f4-ac0e-c758923d9684</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d4d18b15-0ff2-4a6d-b034-d7b6997f8030</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>95c3598b-0d8d-4a35-8923-89b21ee5ed69</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>219f0f93-fa26-4bcd-afe8-37563a9f607a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1?&quot;09!*&amp;+='</defaultValue>
+      <description></description>
+      <id>4bc39494-2e2a-44f4-ac0e-c758923d9684</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'johandu@gmail.com'</defaultValue>
+      <description></description>
+      <id>d4d18b15-0ff2-4a6d-b034-d7b6997f8030</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'street kaliurang km 17, Sleman, Yogyakarta'</defaultValue>
+      <description></description>
+      <id>95c3598b-0d8d-4a35-8923-89b21ee5ed69</id>
+      <masked>false</masked>
+      <name>cur</name>
+   </variable>
+   <variable>
+      <defaultValue>'street kaliurang km 17, Sleman, Yogyakarta'</defaultValue>
+      <description></description>
+      <id>219f0f93-fa26-4bcd-afe8-37563a9f607a</id>
+      <masked>false</masked>
+      <name>per</name>
+   </variable>
+</TestCaseEntity>

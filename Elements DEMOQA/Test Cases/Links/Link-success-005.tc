@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user successfully execute the moved API call</description>
+   <name>Link-success-005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2578deb4-dc4b-40f3-858f-6c9905358eaf</testCaseGuid>
+</TestCaseEntity>

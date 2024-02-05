@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user fills in all fields except permanent addres</description>
+   <name>fill-005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e31de382-1ae7-4f97-8ed6-3723b71da317</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>728126f8-8493-44bd-9897-7160f321fc41</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>973872fc-4566-4cd1-8110-26e8dd1b2493</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a0631e9f-f66a-42c2-aa47-26263c306938</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dbee6a6e-45d7-4bf0-80cb-14a0c59fdfa1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Johan Du'</defaultValue>
+      <description></description>
+      <id>728126f8-8493-44bd-9897-7160f321fc41</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'johandu@gmail.com'</defaultValue>
+      <description></description>
+      <id>973872fc-4566-4cd1-8110-26e8dd1b2493</id>
+      <masked>false</masked>
+      <name>mail</name>
+   </variable>
+   <variable>
+      <defaultValue>'street kaliurang km 17, Sleman, Yogyakarta'</defaultValue>
+      <description></description>
+      <id>a0631e9f-f66a-42c2-aa47-26263c306938</id>
+      <masked>false</masked>
+      <name>cur</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pakem, Sleman'</defaultValue>
+      <description></description>
+      <id>dbee6a6e-45d7-4bf0-80cb-14a0c59fdfa1</id>
+      <masked>false</masked>
+      <name>permanen</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user do click in button &quot;click me&quot;</description>
+   <name>click-003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f95861f2-7160-44ef-b7ee-c588d09fbde0</testCaseGuid>
+</TestCaseEntity>

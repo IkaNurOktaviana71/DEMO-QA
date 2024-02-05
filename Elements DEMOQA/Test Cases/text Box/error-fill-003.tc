@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user fill the field and the email only using a domain address</description>
+   <name>error-fill-003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9533df23-1c72-409e-b3fb-75ca87c14207</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc93f01b-18bc-42d6-a2ea-0848677454fc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1115dcce-a4f7-4000-a6c0-479243a30ae7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ba72961f-dc82-48ec-9557-ffafd69d2807</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>97f6ba8a-b2b9-46c3-8ad1-fd075163d13a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Johan Du'</defaultValue>
+      <description></description>
+      <id>dc93f01b-18bc-42d6-a2ea-0848677454fc</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'@gmail.com'</defaultValue>
+      <description></description>
+      <id>1115dcce-a4f7-4000-a6c0-479243a30ae7</id>
+      <masked>false</masked>
+      <name>mail</name>
+   </variable>
+   <variable>
+      <defaultValue>'street kaliurang km 17, Sleman, Yogyakarta'</defaultValue>
+      <description></description>
+      <id>ba72961f-dc82-48ec-9557-ffafd69d2807</id>
+      <masked>false</masked>
+      <name>cur</name>
+   </variable>
+   <variable>
+      <defaultValue>'street kaliurang km 17, Sleman, Yogyakarta'</defaultValue>
+      <description></description>
+      <id>97f6ba8a-b2b9-46c3-8ad1-fd075163d13a</id>
+      <masked>false</masked>
+      <name>permanen</name>
+   </variable>
+</TestCaseEntity>

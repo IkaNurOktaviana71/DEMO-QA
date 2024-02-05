@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user fills in all fields by entering different current addres with permanent adress</description>
+   <name>fill-004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7901e14b-c961-4258-9315-ba581ec05f1e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fa9322cb-bb52-4370-b9bf-8d108875e94d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>66290b48-784f-4339-893a-62978e538c00</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2aadfb75-87ee-4537-803f-656103b74600</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e1a6e746-81e4-4fd0-a48d-d44f1ef9f65c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Johan Du'</defaultValue>
+      <description></description>
+      <id>fa9322cb-bb52-4370-b9bf-8d108875e94d</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'johandu@gmail.com'</defaultValue>
+      <description></description>
+      <id>66290b48-784f-4339-893a-62978e538c00</id>
+      <masked>false</masked>
+      <name>mail</name>
+   </variable>
+   <variable>
+      <defaultValue>'street kaliurang km 17, Sleman, Yogyakarta'</defaultValue>
+      <description></description>
+      <id>2aadfb75-87ee-4537-803f-656103b74600</id>
+      <masked>false</masked>
+      <name>cur</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pakem, Sleman'</defaultValue>
+      <description></description>
+      <id>e1a6e746-81e4-4fd0-a48d-d44f1ef9f65c</id>
+      <masked>false</masked>
+      <name>permanen</name>
+   </variable>
+</TestCaseEntity>

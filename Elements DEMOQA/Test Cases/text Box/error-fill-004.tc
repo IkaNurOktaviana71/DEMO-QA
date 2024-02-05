@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user does not fill in the fields and click submit</description>
+   <name>error-fill-004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c5e4e08-1831-4aef-9af6-a40b3a2523ea</testCaseGuid>
+</TestCaseEntity>

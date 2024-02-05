@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>forbidden has responded with staus 403 and status text Forbidden</name>
+   <tag></tag>
+   <elementGuidId>cba9ad35-4be8-441c-98aa-4b171ac7a504</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#linkResponse</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='linkResponse']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c2bb792e-5ea8-4473-99dd-8de340b0c153</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>linkResponse</value>
+      <webElementGuid>5513476f-887d-40be-a0cd-d985854a4f28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Link has responded with staus 403 and status text Forbidden</value>
+      <webElementGuid>4667a484-1f37-46d3-93f9-9a222a4146fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;linkResponse&quot;)</value>
+      <webElementGuid>4f030751-a9e4-4bae-a425-ead60544eb35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='linkResponse']</value>
+      <webElementGuid>12536fa0-9bd4-4515-9387-0cba8f8e41b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='linkWrapper']/p[10]</value>
+      <webElementGuid>44aa74a8-ba92-405b-975e-1aa40f094f4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Found'])[1]/following::p[1]</value>
+      <webElementGuid>7a1b0620-b4c1-411e-9bf4-c6bac9a64f96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forbidden'])[1]/following::p[2]</value>
+      <webElementGuid>e1ecf511-2977-46fd-941b-9880471d0097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::p[1]</value>
+      <webElementGuid>ef4ff8e8-6a95-4623-a5a6-85345bfa7e84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Link has responded with staus']/parent::*</value>
+      <webElementGuid>1a9b4cee-2a5a-44c0-9910-3bdc2ffdecfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[10]</value>
+      <webElementGuid>46fca616-6adf-4baa-9ba2-5a1cd7f1aa44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'linkResponse' and (text() = 'Link has responded with staus 403 and status text Forbidden' or . = 'Link has responded with staus 403 and status text Forbidden')]</value>
+      <webElementGuid>d1323035-aca9-4664-b8bb-33f293ebb75f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

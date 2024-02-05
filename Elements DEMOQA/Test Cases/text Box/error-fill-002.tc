@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user fills in all fields by entering different current addres with permanent adress</description>
+   <name>error-fill-002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6c7821f-41de-4b2a-819f-26bdaf369d38</testCaseGuid>
+   <variable>
+      <defaultValue>'Johan Du'</defaultValue>
+      <description></description>
+      <id>e3070eee-b8b9-4d1b-8c98-4338d25c2668</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'johandu'</defaultValue>
+      <description></description>
+      <id>a840ac03-0571-4563-a22e-edc0613d5aa2</id>
+      <masked>false</masked>
+      <name>mail</name>
+   </variable>
+   <variable>
+      <defaultValue>'street kaliurang km 17, Sleman, Yogyakarta'</defaultValue>
+      <description></description>
+      <id>6c7b7843-5f43-46c9-a6df-b82b5677c0cd</id>
+      <masked>false</masked>
+      <name>cur</name>
+   </variable>
+   <variable>
+      <defaultValue>'street kaliurang km 17, Sleman, Yogyakarta'</defaultValue>
+      <description></description>
+      <id>d3f8a722-0b39-4f0e-8f1e-69e8e82fd7ed</id>
+      <masked>false</masked>
+      <name>permanen</name>
+   </variable>
+</TestCaseEntity>

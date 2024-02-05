@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user do click in button &quot;Right click me&quot;</description>
+   <name>failled-002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad14ad6e-90c1-4517-8aa6-64107206d84b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user can access the element links page</description>
+   <name>nav-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a62bde35-d608-453f-989b-cff0bbd4243d</testCaseGuid>
+</TestCaseEntity>

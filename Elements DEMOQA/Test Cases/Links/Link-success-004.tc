@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user successfully execute the No Content API call</description>
+   <name>Link-success-004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d01a4239-194e-4334-b036-0809c4ac28a2</testCaseGuid>
+</TestCaseEntity>

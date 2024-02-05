@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user can access the element text box page</description>
+   <name>nav-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a41d167-95fa-4bfe-a861-e5188a8e29f5</testCaseGuid>
+</TestCaseEntity>

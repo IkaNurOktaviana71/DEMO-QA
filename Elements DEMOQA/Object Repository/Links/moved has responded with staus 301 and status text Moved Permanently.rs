@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>moved has responded with staus 301 and status text Moved Permanently</name>
+   <tag></tag>
+   <elementGuidId>aee0826e-2195-49a7-b8fb-ca4eec1cbacd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#linkResponse</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='linkResponse']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1825eed2-0421-416e-b110-3e37d36e5b11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>linkResponse</value>
+      <webElementGuid>739ca781-718e-4db7-8046-bd86afd4d101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Link has responded with staus 301 and status text Moved Permanently</value>
+      <webElementGuid>4af4ba1d-459f-4f18-8114-f95c8cb13be3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;linkResponse&quot;)</value>
+      <webElementGuid>90bc065c-ca6b-490a-88dc-2c6ca34e0bd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='linkResponse']</value>
+      <webElementGuid>79531f84-a612-41ba-9940-031de104d537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='linkWrapper']/p[10]</value>
+      <webElementGuid>691c2c65-95ed-4a61-b052-125b592f83f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Found'])[1]/following::p[1]</value>
+      <webElementGuid>21d8e9d1-453b-4a0d-821f-d28cf5f57fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forbidden'])[1]/following::p[2]</value>
+      <webElementGuid>d99a9865-f6c8-4dc6-8ecd-85495ea8f411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::p[1]</value>
+      <webElementGuid>4e48248b-250e-4370-9eaf-ad1ce689f6e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Link has responded with staus']/parent::*</value>
+      <webElementGuid>cfd5a80b-0ffa-42a8-a89d-005c6ccabb85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[10]</value>
+      <webElementGuid>ad4cbbef-7851-4d42-835b-a05a103e1371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'linkResponse' and (text() = 'Link has responded with staus 301 and status text Moved Permanently' or . = 'Link has responded with staus 301 and status text Moved Permanently')]</value>
+      <webElementGuid>4e193915-50a3-4a33-b83e-18e7544ba592</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

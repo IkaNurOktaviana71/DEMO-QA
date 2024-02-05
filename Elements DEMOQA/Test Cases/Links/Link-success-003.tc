@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user successfully execute the created API call</description>
+   <name>Link-success-003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbb0106e-f337-4eda-8fc0-1e7001cdb0f5</testCaseGuid>
+</TestCaseEntity>

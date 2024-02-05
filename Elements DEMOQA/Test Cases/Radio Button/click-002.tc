@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user can click radio button Impressive</description>
+   <name>click-002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3373c06e-c075-44b2-8a62-aaa0c58732c1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc50a341-717a-4be4-91e5-bfa250fa2436</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Impressive'</defaultValue>
+      <description></description>
+      <id>dc50a341-717a-4be4-91e5-bfa250fa2436</id>
+      <masked>false</masked>
+      <name>RadioButtom</name>
+   </variable>
+</TestCaseEntity>

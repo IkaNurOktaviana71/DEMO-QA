@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User fills in the text box by filling in all the fields and with the student email address</description>
+   <name>fill-003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b98bfb0a-dd3c-48e7-89d3-fac02cc4509f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ae4629b5-1658-4519-a3c9-590310dddbaf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0f194a8a-ca37-4505-b48d-a7d3b67e57b6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>df7e8475-e141-48eb-9a08-e23de20fdc5e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bb62ebce-7b66-4fb0-8d6d-420f34d59486</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Johan Du'</defaultValue>
+      <description></description>
+      <id>ae4629b5-1658-4519-a3c9-590310dddbaf</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'18106010017@student.uin-suka.ac.id'</defaultValue>
+      <description></description>
+      <id>0f194a8a-ca37-4505-b48d-a7d3b67e57b6</id>
+      <masked>false</masked>
+      <name>mail</name>
+   </variable>
+   <variable>
+      <defaultValue>'street kaliurang km 17, Sleman, Yogyakarta'</defaultValue>
+      <description></description>
+      <id>df7e8475-e141-48eb-9a08-e23de20fdc5e</id>
+      <masked>false</masked>
+      <name>cur</name>
+   </variable>
+   <variable>
+      <defaultValue>'street kaliurang km 17, Sleman, Yogyakarta'</defaultValue>
+      <description></description>
+      <id>bb62ebce-7b66-4fb0-8d6d-420f34d59486</id>
+      <masked>false</masked>
+      <name>permanen</name>
+   </variable>
+</TestCaseEntity>

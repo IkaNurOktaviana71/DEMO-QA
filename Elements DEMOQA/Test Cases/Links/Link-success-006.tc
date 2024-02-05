@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user successfully execute the bad request API call</description>
+   <name>Link-success-006</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>046bd830-f02d-4f00-af6c-7070e000f9af</testCaseGuid>
+</TestCaseEntity>

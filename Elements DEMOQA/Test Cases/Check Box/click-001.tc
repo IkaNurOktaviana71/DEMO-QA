@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User show all the check box by clicking the Toggle</description>
+   <name>click-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dff6a986-b579-4e60-8614-ece962985951</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user can click radio button yes</description>
+   <name>click-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6fd6d099-9156-4008-94a3-7dacd3913e64</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ca0d9dba-75b2-46f5-9d2c-250a96645421</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Yes'</defaultValue>
+      <description></description>
+      <id>ca0d9dba-75b2-46f5-9d2c-250a96645421</id>
+      <masked>false</masked>
+      <name>RadioButtom</name>
+   </variable>
+</TestCaseEntity>

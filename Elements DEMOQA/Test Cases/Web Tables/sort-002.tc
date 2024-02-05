@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user sorting first name ascending order</description>
+   <name>sort-002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3440febe-edfc-45a1-badd-77576781b39e</testCaseGuid>
+</TestCaseEntity>
