@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='promtButton']</value>
+         <value>//*[@id=&quot;alertButton&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c14b538a-ea53-4ac1-b868-01f0bdf10826</webElementGuid>
+      <webElementGuid>e3322408-d7ff-41be-b906-15820504c9c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>promtButton</value>
-      <webElementGuid>b85b91f9-4461-4187-bc3b-bcb5bacff6b8</webElementGuid>
+      <webElementGuid>d28a2da5-ba89-4950-a5da-eba0f8e6112c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4b2b580e-b851-48ea-a143-d5601be35ac6</webElementGuid>
+      <webElementGuid>d7ee2d12-d82b-4698-9c3c-5c39afaffd5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>5a08e907-dcea-4c01-b28b-68f35b428cab</webElementGuid>
+      <webElementGuid>638fea31-d6e5-416e-af53-aaa63d84205b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Click me</value>
-      <webElementGuid>983d3a45-667f-4f36-a26d-5ae6ad276789</webElementGuid>
+      <webElementGuid>b7cc2013-5be6-4381-9976-5efdb39ae240</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;promtButton&quot;)</value>
-      <webElementGuid>9a269bec-fc7d-4aac-927c-f711bc7c7f7a</webElementGuid>
+      <webElementGuid>c5c6452b-3fb4-4d52-9716-9ac7672956a3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='promtButton']</value>
-      <webElementGuid>a94d41ec-474e-4c12-9bd6-e8f6a3334421</webElementGuid>
+      <webElementGuid>6e7a30f7-b9bc-4e3f-8e6a-3715cebeb8bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='javascriptAlertsWrapper']/div[4]/div[2]/button</value>
-      <webElementGuid>b1469907-d898-4e80-8371-995784141abe</webElementGuid>
+      <webElementGuid>1682b541-b810-466c-8b2b-96c85b856801</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='On button click, prompt box will appear'])[1]/following::button[1]</value>
-      <webElementGuid>94dfa19a-df05-4b5b-bbaf-5c8f08f604e4</webElementGuid>
+      <webElementGuid>126925ac-52b6-4682-bda8-a0709066fa38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Click me'])[3]/following::button[1]</value>
-      <webElementGuid>1b8ecd87-2bc4-4367-8eaa-16d37d73640f</webElementGuid>
+      <webElementGuid>4aeab535-69f5-466b-8c8d-1c8d60f9ef88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::button[1]</value>
-      <webElementGuid>d9f78b72-505c-42ca-8f49-7b5db708e8d8</webElementGuid>
+      <webElementGuid>47b5fdac-0546-4860-a6ca-2dff907fc9db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
-      <webElementGuid>62a0499d-db9e-4dd3-946e-7cae80e82bc3</webElementGuid>
+      <webElementGuid>b44c82b4-7df0-4774-89c9-ab8ed274dde9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/button</value>
-      <webElementGuid>0fae25e4-6221-40f7-bf74-b6d226afac50</webElementGuid>
+      <webElementGuid>ed306ca9-fcd1-462d-81b6-1ad4a4eca803</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'promtButton' and @type = 'button' and (text() = 'Click me' or . = 'Click me')]</value>
-      <webElementGuid>e083ebd3-ccf4-46c4-9960-eac012af1a5c</webElementGuid>
+      <webElementGuid>c1cf8a95-444b-45cc-90ac-326ca7dbe70d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

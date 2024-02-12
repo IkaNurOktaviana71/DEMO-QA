@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user can view the alert</description>
+   <name>alert-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3d05b37-6690-42f8-a5da-fbd4e7f206a9</testCaseGuid>
+</TestCaseEntity>

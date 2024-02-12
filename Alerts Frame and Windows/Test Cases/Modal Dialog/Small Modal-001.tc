@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user successfully views the small dialog</description>
+   <name>Small Modal-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63212dec-880a-4eab-b1d6-aa7f36402568</testCaseGuid>
+</TestCaseEntity>

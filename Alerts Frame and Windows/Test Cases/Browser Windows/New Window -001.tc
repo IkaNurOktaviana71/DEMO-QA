@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>user successfully open new window</description>
-   <name>BWS-002</name>
+   <name>New Window -001</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>3d0b551c-48a2-490d-85f1-916115729631</testCaseGuid>

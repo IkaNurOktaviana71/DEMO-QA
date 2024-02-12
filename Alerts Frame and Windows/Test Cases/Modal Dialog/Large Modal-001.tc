@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user successfully views the large dialog</description>
+   <name>Large Modal-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1a81127-8afa-4cea-a438-a47a77054c91</testCaseGuid>
+</TestCaseEntity>
